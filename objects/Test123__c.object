@@ -221,10 +221,10 @@
         <visibleLines>4</visibleLines>
     </fields>
     <fields>
-        <fullName>PicnicLoc__c</fullName>
+        <fullName>PickupLoc__c</fullName>
         <displayLocationInDecimal>true</displayLocationInDecimal>
         <externalId>false</externalId>
-        <label>PicnicLoc</label>
+        <label>PickupLoc</label>
         <required>false</required>
         <scale>2</scale>
         <trackHistory>false</trackHistory>
