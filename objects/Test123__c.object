@@ -220,7 +220,7 @@
         </valueSet>
         <visibleLines>4</visibleLines>
     </fields>
-	<fields>
+    <fields>
         <fullName>PicnicLoc__c</fullName>
         <displayLocationInDecimal>true</displayLocationInDecimal>
         <externalId>false</externalId>
