@@ -175,6 +175,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>HomeLoc__c</fullName>
+        <displayLocationInDecimal>true</displayLocationInDecimal>
+        <externalId>false</externalId>
+        <label>HomeLoc</label>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Location</type>
+    </fields>
+    <fields>
         <fullName>NewPick__c</fullName>
         <externalId>false</externalId>
         <label>NewPick</label>
@@ -219,17 +230,6 @@
             </valueSetDefinition>
         </valueSet>
         <visibleLines>4</visibleLines>
-    </fields>
-    <fields>
-        <fullName>PickLoc__c</fullName>
-        <displayLocationInDecimal>true</displayLocationInDecimal>
-        <externalId>false</externalId>
-        <label>PickLoc</label>
-        <required>false</required>
-        <scale>2</scale>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Location</type>
     </fields>
     <fields>
         <fullName>WorkLoc__c</fullName>
